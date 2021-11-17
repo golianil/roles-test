@@ -35,4 +35,5 @@ BSD
 Author Information
 ------------------
 
+GIT - edit the readme file and push to Github - Nov17th
 
